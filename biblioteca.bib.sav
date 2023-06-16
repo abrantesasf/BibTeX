@@ -1316,9 +1316,9 @@
 }
 
 @Book{EMV1,
-  author    = {Marcelo Rufino Oliveira and Márcio Rodrigo Rocha Pinheiro},
+  author    = {Marcelo Rufino Oliveira and M\'{a}rcio Rodrigo Rocha Pinheiro},
   publisher = {Editora VestSeller},
-  title     = {{E}lementos da {M}atemática, {V}olume 1: {C}onjuntos, {F}unções, {A}ritmética},
+  title     = {{E}lementos da {M}atemática, volume 1: {C}onjuntos, {F}unções, {A}ritmética},
   year      = {2010},
   address   = {Fortaleza},
   edition   = {3},
@@ -5328,6 +5328,39 @@
   title        = {{P}or que as folhas de sulfite levam esse nome? {E} as de almaço?},
   year         = {2017},
   url          = {https://super.abril.com.br/coluna/oraculo/por-que-as-folhas-de-sulfite-levam-esse-nome-e-as-de-almaco},
+}
+
+@Book{iezzi2015unicop1,
+  author    = {Gelson Iezzi and Osvaldo Dolce and Davi Degenszajn and Roberto P\'{e}rigo},
+  publisher = {Atual Editora},
+  title     = {{M}atemática: volume único},
+  year      = {2015},
+  address   = {São Paulo},
+  edition   = {6},
+  isbn      = {9788535720068},
+  volume    = {1},
+}
+
+@Book{tmev3,
+  author    = {Antônio Caminha Muniz{ }Neto},
+  publisher = {Sociedade Brasileira de Matemática},
+  title     = {{T}ópicos de {M}atemática {E}lementar, {V}olume 3: {I}ntrodução à {A}nálise},
+  year      = {2012},
+  address   = {Rio de Janeiro},
+  edition   = {2},
+  isbn      = {9788583370079},
+  series    = {Coleção do Professor de Matemática},
+  volume    = {3},
+}
+
+@Book{aref1,
+  author    = {Aref Antar{ }Neto and Jos\'{e} Luiz Pereira Sampaio and Nilton Lapa and Sidney Luiz Cavallanttle},
+  publisher = {Vestseller},
+  title     = {{N}oções de {M}atemática, volume 1: {C}onjuntos e {F}unções},
+  year      = {2009},
+  address   = {Fortaleza},
+  edition   = {1},
+  isbn      = {9788560653041},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
