@@ -5790,8 +5790,9 @@
   publisher = {Addison-Wesley},
   title     = {{A}lgorithms in {C} ({P}arts 1--4)},
   year      = {1998},
+  address   = {Boston},
   edition   = {3},
-  isbn      = {978-0-201-31452-6},
+  isbn      = {9780201314526},
   volume    = {1},
 }
 
@@ -5927,6 +5928,81 @@
   year      = {2012},
   edition   = {2},
   isbn      = {978-0133085013},
+}
+
+@Book{harbison2002,
+  author    = {Harbison{ }III, Samuel P. and Steele{ }Jr., Guy L.},
+  publisher = {Prentice Hall},
+  title     = {{C}: {A} {R}eference {M}anual},
+  year      = {2002},
+  address   = {New Jersey},
+  edition   = {5},
+  isbn      = {9780130895929},
+}
+
+@Book{linden1994,
+  author    = {Van{ }der{ }Linden, Peter},
+  publisher = {SunSoft Press},
+  title     = {{E}xpert {C} {P}rogramming: {D}eep s {C} {S}ecrets},
+  year      = {1994},
+  address   = {New Jersey},
+  edition   = {1ª},
+  isbn      = {0131774298},
+  pages     = {353},
+}
+
+@Book{pereira2016,
+  author    = {Pereira, Silvio do Lago},
+  publisher = {Érica},
+  title     = {{Estruturas} de {D}ados em {C}: {U}ma {A}bordagem {D}idática},
+  year      = {2016},
+  address   = {São Paulo},
+  edition   = {1ª},
+  isbn      = {9788536516295},
+}
+
+@Book{oliveira2016v1,
+  author    = {Oliveira, Ulysses de},
+  publisher = {Editora Ulysses de Oliveira Ltda},
+  title     = {{E}struturas de {D}ados {U}sando a {L}inguagem {C}: {V}olume 1: {F}undamentos},
+  year      = {2016},
+  address   = {João Pessoa},
+  edition   = {1ª},
+  isbn      = {978-8592121310},
+  note      = {Disponível para download integral no site do autor},
+  volume    = {1},
+  url       = {https://www.ulysseso.com/livros/ed1/ed1.html},
+}
+
+@Book{oliveira2016v2,
+  author    = {Oliveira, Ulysses de},
+  publisher = {Editora Ulysses de Oliveira Ltda},
+  title     = {{E}struturas de {D}ados {U}sando a {L}inguagem {C}: {V}olume 2: {B}usca e {O}rdenação},
+  year      = {2016},
+  address   = {João Pessoa},
+  edition   = {1ª},
+  isbn      = {9788592121334},
+  note      = {Disponível para download integral no site do autor},
+  volume    = {2},
+  url       = {https://www.ulysseso.com/livros/ed2/ed2.html},
+}
+
+@Article{hammersley1968,
+  author  = {Hammersley, John Michael},
+  journal = {Bull. Inst. Maths Applics},
+  title   = {{O}n the enfeeblement of mathematical skills by ``{M}odern {M}athematics'' and by similar soft intellectual trash in schools and universities},
+  year    = {1968},
+  pages   = {66--85},
+  volume  = {4},
+}
+
+@Book{eliot1936,
+  author    = {Eliot, Thomas Stearns},
+  publisher = {Faber and Faber},
+  title     = {{E}ssays {A}ncient and {M}odern},
+  year      = {1936},
+  address   = {London},
+  edition   = {1ª},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
